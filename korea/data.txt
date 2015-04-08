@@ -1,0 +1,45 @@
+{
+	"Region": {
+		"Seoul": "20150403",
+		"Busan": "20130928",
+		"Daegu": "20130701",
+		"Daejeon": "20140309",
+		"Gwangju": "20110916"
+	},
+	"Capacity": {
+		"Seoul": "1976113",
+		"Busan": "530150",
+		"Daegu": "346309",
+		"Daejeon": "45267",
+		"Gwangju": "39432"
+	},
+	"Revision": "175",
+	"Promotion": false,
+	"Realtime": true,
+	"AD": {
+		"0": "Adam",
+		"1": "Adam",
+		"2": "Adam",
+		"3": "Adam",
+		"4": "Adam",
+		"5": "Adam"
+	},
+	"AdPool": {
+		"0": "Admob,Adam,AdPost",
+		"1": "Admob,Adam,AdPost",
+		"2": "Admob,Adam,AdPost",
+		"3": "Admob,Adam,AdPost",
+		"4": "Admob,Adam,AdPost",
+		"5": "Admob,Adam,AdPost"
+	},
+	"Rate": {
+		"0": "9,1,0",
+		"1": "9,1,0",
+		"2": "9,1,0",
+		"3": "9,1,0",
+		"4": "9,1,0",
+		"5": "9,1,0"
+	},
+	"Replacement": "Adam,Admob",
+	"URL": ""
+}

@@ -1,0 +1,26 @@
+{
+	"Language": "en",
+	"Region": {
+		"en": "20140302"
+	},
+	"Database": {
+		"en": "58616"
+	},
+	"Revision": "0",
+	"Realtime": false,
+	"AdPool": {
+		"0": "Admob,Inmobi",
+		"1": "Admob,Inmobi",
+		"2": "Admob,Inmobi",
+		"3": "Admob,Inmobi",
+		"4": "Admob,Inmobi"
+	},
+	"Rate": {
+		"0": "10,0",
+		"1": "10,0",
+		"2": "10,0",
+		"3": "10,0",
+		"4": "10,0"
+	},
+	"Replacement": "Admob,Inmobi"
+}

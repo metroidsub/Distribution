@@ -1,0 +1,45 @@
+{
+	"Region": { // Versions
+		"Seoul": "20120904",
+		"Busan": "20120705",
+		"Daegu": "20120904",
+		"Daejeon": "20110609",
+		"Gwangju": "20110916"
+	},
+	"Capacity": { // Size of the database
+		"Seoul": "1915990",
+		"Busan": "487621",
+		"Daegu": "381868",
+		"Daejeon": "44392",
+		"Gwangju": "39432"
+	},
+	"Promotion": false,
+	"Realtime": true,
+	"AD": { // Setting for each activity including routemap
+		"0": "Adam", // PATH_SEARCH
+		"1": "Adam", // ARRIVAL_INFO
+		"2": "Adam", // STATION_INFO
+		"3": "Adam", // MAP_VIEW
+		"4": "Adam", // ROUTE_MAP
+		"5": "Adam"
+	},
+	"AdPool": {
+		"0": "Adam,Admob,Cauly",
+		"1": "Adam,Admob,Cauly",
+		"2": "Adam,Admob,Cauly",
+		"3": "Adam,Admob,Cauly",
+		"4": "Adam,Admob,Cauly",
+		"5": "Adam,Admob,Cauly"
+	},
+	"Rate": {
+		"0": "7,2,1",
+		"1": "7,2,1",
+		"2": "7,2,1",
+		"3": "7,2,1",
+		"4": "7,2,1",
+		"5": "7,2,1"
+	},
+	"Replacement": "Adam,Admob",
+	"URL": "http://api.book.playy.co.kr/api/metroBannerEvent.do",
+	"Revision": "111"
+}
