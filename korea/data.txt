@@ -4,16 +4,16 @@
 		"Busan": "20130928",
 		"Daegu": "20150423",
 		"Daejeon": "20140309",
-		"Gwangju": "20150801"
+		"Gwangju": "20150802"
 	},
 	"Capacity": {
 		"Seoul": "1977344",
 		"Busan": "530150",
 		"Daegu": "347266",
 		"Daejeon": "45267",
-		"Gwangju": "35129"
+		"Gwangju": "35871"
 	},
-	"Revision": "177",
+	"Revision": "180",
 	"Promotion": false,
 	"Realtime": true,
 	"AD": {
