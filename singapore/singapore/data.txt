@@ -1,12 +1,12 @@
 {
 	"Language": "en",
 	"Region": {
-		"en": "20140302"
+		"en": "20150823"
 	},
 	"Database": {
-		"en": "58616"
+		"en": "59398"
 	},
-	"Revision": "0",
+	"Revision": "5",
 	"Realtime": false,
 	"AdPool": {
 		"0": "Admob,Inmobi",
