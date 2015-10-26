@@ -25,20 +25,20 @@
 		"5": "Adam"
 	},
 	"AdPool": {
-		"0": "Admob,Adam,AdPost",
-		"1": "Admob,Adam,AdPost",
-		"2": "Admob,Adam,AdPost",
-		"3": "Admob,Adam,AdPost",
-		"4": "Admob,Adam,AdPost",
-		"5": "Admob,Adam,AdPost"
+		"0": "Admob,Adam",
+		"1": "Admob,Adam",
+		"2": "Admob,Adam",
+		"3": "Admob,Adam",
+		"4": "Admob,Adam",
+		"5": "Admob,Adam"
 	},
 	"Rate": {
-		"0": "10,0,0",
-		"1": "10,0,0",
-		"2": "10,0,0",
-		"3": "10,0,0",
-		"4": "10,0,0",
-		"5": "10,0,0"
+		"0": "7,3,0",
+		"1": "7,3,0",
+		"2": "7,3,0",
+		"3": "7,3,0",
+		"4": "7,3,0",
+		"5": "7,3,0"
 	},
 	"Replacement": "Adam,Admob",
 	"URL": ""
