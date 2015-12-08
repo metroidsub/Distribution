@@ -16,14 +16,6 @@
 	"Revision": "191",
 	"Promotion": false,
 	"Realtime": true,
-	"AD": {
-		"0": "Adam",
-		"1": "Adam",
-		"2": "Adam",
-		"3": "Adam",
-		"4": "Adam",
-		"5": "Adam"
-	},
 	"AdPool": {
 		"0": "Admob,Adam,ShallWeAd",
 		"1": "Admob,Adam,ShallWeAd",
@@ -33,12 +25,12 @@
 		"5": "Admob,Adam,ShallWeAd"
 	},
 	"Rate": {
-		"0": "2,7,1",
-		"1": "3,7,0",
-		"2": "3,7,0",
-		"3": "3,7,0",
-		"4": "3,7,0",
-		"5": "3,7,0"
+		"0": "2,8,0",
+		"1": "2,8,0",
+		"2": "2,8,0",
+		"3": "2,8,0",
+		"4": "2,8,0",
+		"5": "2,8,0"
 	},
 	"Replacement": "Adam,Admob",
 	"URL": ""
