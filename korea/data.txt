@@ -1,19 +1,19 @@
 {
 	"Region": {
-		"Seoul": "20160202",
+		"Seoul": "20160227",
 		"Busan": "20150925",
 		"Daegu": "20150423",
 		"Daejeon": "20140310",
 		"Gwangju": "20150802"
 	},
 	"Capacity": {
-		"Seoul": "2007549",
+		"Seoul": "2007551",
 		"Busan": "450383",
 		"Daegu": "347266",
 		"Daejeon": "45242",
 		"Gwangju": "35871"
 	},
-	"Revision": "193",
+	"Revision": "194",
 	"Promotion": false,
 	"Realtime": true,
 	"AdPool": {
