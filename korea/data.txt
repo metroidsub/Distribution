@@ -13,7 +13,7 @@
 		"Daejeon": "45242",
 		"Gwangju": "35871"
 	},
-	"Revision": "197",
+	"Revision": "198",
 	"Promotion": false,
 	"Realtime": true,
 	"AdPool": {
