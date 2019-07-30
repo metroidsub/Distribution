@@ -17,12 +17,12 @@
 	"Promotion": false,
 	"Realtime": true,
 	"AdPool": {
-		"0": "Admob,Adam,ShallWeAd",
-		"1": "Admob,Adam,ShallWeAd",
-		"2": "Admob,Adam,ShallWeAd",
-		"3": "Admob,Adam,ShallWeAd",
-		"4": "Admob,Adam,ShallWeAd",
-		"5": "Admob,Adam,ShallWeAd"
+		"0": "Adam,Admob",
+		"1": "Adam,Admob",
+		"2": "Adam,Admob",
+		"3": "Adam,Admob",
+		"4": "Adam,Admob",
+		"5": "Adam,Admob"
 	},
 	"Rate": {
 		"0": "10,0,0",
@@ -32,6 +32,6 @@
 		"4": "10,0,0",
 		"5": "10,0,0"
 	},
-	"Replacement": "ShallWeAd,Adam,Admob",
+	"Replacement": "Adam,Admob",
 	"URL": " "
 }
