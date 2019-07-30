@@ -24,12 +24,12 @@
 		"5": "Adam"
 	},
 	"AdPool": {
-		"0": "Adam,Admob,Cauly",
-		"1": "Adam,Admob,Cauly",
-		"2": "Adam,Admob,Cauly",
-		"3": "Adam,Admob,Cauly",
-		"4": "Adam,Admob,Cauly",
-		"5": "Adam,Admob,Cauly"
+		"0": "Adam,Admob",
+		"1": "Adam,Admob",
+		"2": "Adam,Admob",
+		"3": "Adam,Admob",
+		"4": "Adam,Admob",
+		"5": "Adam,Admob"
 	},
 	"Rate": {
 		"0": "7,2,1",
