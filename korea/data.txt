@@ -17,12 +17,12 @@
 	"Promotion": false,
 	"Realtime": true,
 	"AdPool": {
-		"0": "Adam,Admob",
-		"1": "Adam,Admob",
-		"2": "Adam,Admob",
-		"3": "Adam,Admob",
-		"4": "Adam,Admob",
-		"5": "Adam,Admob"
+		"0": "Adam,Admob",MoPub",
+		"1": "Adam,Admob",MoPub",
+		"2": "Adam,Admob",MoPub",
+		"3": "Adam,Admob",MoPub",
+		"4": "Adam,Admob",MoPub",
+		"5": "Adam,Admob"MoPub",
 	},
 	"Rate": {
 		"0": "10,0,0",
@@ -32,6 +32,6 @@
 		"4": "10,0,0",
 		"5": "10,0,0"
 	},
-	"Replacement": "Adam,Admob",
+	"Replacement": "Adam,Admob",MoPub",
 	"URL": " "
 }
