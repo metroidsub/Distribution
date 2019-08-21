@@ -39,7 +39,7 @@
 		"4": "7,2,1",
 		"5": "7,2,1"
 	},
-	"Replacement": "Adam,Admob",
+	"Replacement": "Adam,Admob,MoPub",
 	"URL": "http://api.book.playy.co.kr/api/metroBannerEvent.do",
 	"Revision": "111"
 }
