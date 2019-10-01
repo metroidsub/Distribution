@@ -1,13 +1,13 @@
 {
 	"Region": {
-		"Seoul": "20190727",
+		"Seoul": "20191001",
 		"Busan": "20190715",
 		"Daegu": "20160908",
 		"Daejeon": "20140310",
 		"Gwangju": "20150802"
 	},
 	"Capacity": {
-		"Seoul": "2249247",
+		"Seoul": "2266355",
 		"Busan": "501851",
 		"Daegu": "352698",
 		"Daejeon": "45242",
@@ -17,12 +17,12 @@
 	"Promotion": false,
 	"Realtime": true,
 	"AdPool": {
-		"0": "Adam,Admob,MoPub",
-        "1": "Adam,Admob,MoPub",
-        "2": "Adam,Admob,MoPub",
-        "3": "Adam,Admob,MoPub",
-        "4": "Adam,Admob,MoPub",
-        "5": "Adam,Admob,MoPub"
+		"0": "Adam,Admob,MoPub,Custom",
+        "1": "Adam,Admob,MoPub,Custom",
+        "2": "Adam,Admob,MoPub,Custom",
+        "3": "Adam,Admob,MoPub,Custom",
+        "4": "Adam,Admob,MoPub,Custom",
+        "5": "Adam,Admob,MoPub,Custom"
 	},
 	"Rate": {
 		"0": "10,0,0",
@@ -32,6 +32,6 @@
 		"4": "10,0,0",
 		"5": "10,0,0"
 	},
-	"Replacement": "Adam,Admob,MoPub",
+	"Replacement": "Adam,Admob,MoPub,Custom",
 	"URL": " "
 }

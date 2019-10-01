@@ -24,12 +24,12 @@
 		"5": "Adam"
 	},
 	"AdPool": {
-		"0": "Adam,Admob,MoPub",
-		"1": "Adam,Admob,MoPub",
-		"2": "Adam,Admob,MoPub",
-		"3": "Adam,Admob,MoPub",
-		"4": "Adam,Admob,MoPub",
-		"5": "Adam,Admob,MoPub"
+		"0": "Adam,Admob,MoPub,Custom",
+		"1": "Adam,Admob,MoPub,Custom",
+		"2": "Adam,Admob,MoPub,Custom",
+		"3": "Adam,Admob,MoPub,Custom",
+		"4": "Adam,Admob,MoPub,Custom",
+		"5": "Adam,Admob,MoPub,Custom"
 	},
 	"Rate": {
 		"0": "7,2,1",
@@ -39,7 +39,7 @@
 		"4": "7,2,1",
 		"5": "7,2,1"
 	},
-	"Replacement": "Adam,Admob,MoPub",
+	"Replacement": "Adam,Admob,MoPub,Custom",
 	"URL": "http://api.book.playy.co.kr/api/metroBannerEvent.do",
 	"Revision": "111"
 }
