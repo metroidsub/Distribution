@@ -13,6 +13,12 @@
 		"Daejeon": "45242",
 		"Gwangju": "35871"
 	},
+	"LateUpdate": {
+	    "isOn": false,
+	    "Region": "Seoul",
+	    "Version": "20210701",
+	    "Capacity": "2776153"
+	},
 	"Revision": "202",
 	"Promotion": false,
 	"Realtime": true,
