@@ -14,7 +14,7 @@
 		"Gwangju": "35871"
 	},
 	"LateUpdate": {
-	    "isOn": true,
+	    "isOn": false,
 	    "Region": "Seoul",
 	    "Version": "20210704",
 	    "Capacity": "2776153"
