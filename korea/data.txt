@@ -1,13 +1,13 @@
 {
 	"Region": {
-		"Seoul": "20211224",
+		"Seoul": "20211227",
 		"Busan": "20210105",
 		"Daegu": "20160908",
 		"Daejeon": "20140310",
 		"Gwangju": "20150802"
 	},
 	"Capacity": {
-		"Seoul": "2741092",
+		"Seoul": "2740710",
 		"Busan": "552473",
 		"Daegu": "352698",
 		"Daejeon": "45242",
