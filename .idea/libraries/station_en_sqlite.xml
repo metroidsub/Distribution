@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="station_en.sqlite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/britain/london/station_en.sqlite.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="database">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/korea/database/busan.zip!/" />
+      <root url="jar://$PROJECT_DIR$/korea/database/seoul.zip!/" />
+      <root url="jar://$PROJECT_DIR$/korea/database/gwangju.zip!/" />
+      <root url="jar://$PROJECT_DIR$/korea/database/daegu.zip!/" />
+      <root url="jar://$PROJECT_DIR$/korea/database/daejeon.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
