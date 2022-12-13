@@ -11,7 +11,7 @@
         {
             "id" : "phantom1226",
             "banner_img" : "https://github.com/metroidsub/Distribution/raw/master/som/img/promotion.jpg",
-            "landing_url" : "https://m.naver.com",
+            "landing_url" : "https://static.adbc.io/comment/index.html?category=som&username=%s&userid=%s&from=%s",
             "sdate" : 20221226,
             "edate" : 20230108,
         }
