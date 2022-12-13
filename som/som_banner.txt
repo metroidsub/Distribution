@@ -2,14 +2,14 @@
     "isOn" : true,
     "list" : [
         {
-            "idx" : "1",
+            "id" : "survey1217",
             "banner_img" : "https://github.com/metroidsub/Distribution/raw/master/som/img/promotion.jpg",
             "landing_url" : "",
             "sdate" : 20221217,
             "edate" : 20221225,
         },
         {
-            "idx" : "2",
+            "id" : "phantom1226",
             "banner_img" : "https://github.com/metroidsub/Distribution/raw/master/som/img/promotion.jpg",
             "landing_url" : "https://m.naver.com",
             "sdate" : 20221226,
