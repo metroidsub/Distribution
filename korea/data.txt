@@ -7,7 +7,7 @@
 		"Gwangju": "20150802"
 	},
 	"Capacity": {
-		"Seoul": "2780309",
+		"Seoul": "2780307",
 		"Busan": "551419",
 		"Daegu": "352698",
 		"Daejeon": "45242",
