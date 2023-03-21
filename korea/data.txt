@@ -12,6 +12,7 @@
 		"Daegu": "352698",
 		"Daejeon": "45242",
 		"Gwangju": "35871"
+
 	},
 	"LateUpdate": {
 	    "isOn": false,
