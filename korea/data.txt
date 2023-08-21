@@ -17,7 +17,7 @@
 	"LateUpdate": {
 	    "isOn": true,
 	    "Region": "Seoul",
-	    "Version": "20230826",
+	    "Version": "20230821",
 	    "Capacity": "2795193"
 	},
 	"Revision": "202",
