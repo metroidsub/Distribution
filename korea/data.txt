@@ -15,10 +15,10 @@
 
 	},
 	"LateUpdate": {
-	    "isOn": false,
+	    "isOn": true,
 	    "Region": "Seoul",
-	    "Version": "20240810",
-	    "Capacity": "2815143"
+	    "Version": "20250628",
+	    "Capacity": "2859226"
 	},
 	"Revision": "202",
 	"Promotion": false,
